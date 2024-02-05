@@ -12,4 +12,8 @@ public class RectangleTest {
                 assertEquals(8, new Rectangle(2,4).getArea());
                 assertEquals(3, new Rectangle(3,1).getArea());
         }
+        @Test(expected = IllegalArgumentException.class)
+        public void verifyAreaForInvalidDimension(){
+                new Rectangle(-3,4).getArea();
+        }
 }
