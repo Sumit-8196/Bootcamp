@@ -1,15 +1,18 @@
 package org.example.com.bootcamp.SecondDay;
 
-public enum Unit {
+public enum LengthUnit implements BaseUnit {
     KM(100000),
     CM(1),
     M(100);
 
     private final double scale;
-    Unit(double scale){
+
+    LengthUnit(double scale) {
         this.scale = scale;
     }
-    public double getScale(){
-        return this.scale;
+
+    @Override
+    public double getScaleValue() {
+        return scale;
     }
 }

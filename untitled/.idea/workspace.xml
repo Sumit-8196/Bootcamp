@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac33ed63-3222-443e-bc75-c1b975c2111a" name="Changes" comment="Second commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qodana.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/bootcamp/FirstDay/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/bootcamp/SecondDay/Unit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/com/bootcamp/SecondDay/UnitMeasurement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bootcamp/FirstDay/RectangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bootcamp/secondDay/UnitMeasurementTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/com/bootcamp/FirstDay/Rectangle.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bwchTkp5MARCPNcEKGcmOEpxB5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.LengthCheckerTest.executor": "Run",
+    "JUnit.LengthCheckerTest.should_return_false_when_LengthAndUnit_notEqualTo_OneCm.executor": "Run",
+    "JUnit.LengthCheckerTest.should_return_true_for_hundred_cm_equalsTo_OneMeter.executor": "Run",
+    "JUnit.LengthCheckerTest.verifyLengthAndUnit.executor": "Run",
+    "JUnit.LengthCheckerTest.verify_for_quantity_given_in_km.executor": "Run",
+    "JUnit.LengthCheckerTest.verify_for_quantity_given_in_meter.executor": "Run",
+    "JUnit.RectangleTest.executor": "Run",
+    "JUnit.RectangleTest.verifyAreaForInvalidDimension.executor": "Run",
+    "JUnit.RectangleTest.verifyAreaForValidDimension.executor": "Run",
+    "JUnit.UnitMeasurementTest.executor": "Run",
+    "JUnit.UnitMeasurementTest.verify_for_quantity_given_in_km.executor": "Run",
+    "JUnit.UnitMeasurementTest.verify_for_quantity_given_in_meter.executor": "Run",
+    "JUnit.UnitMeasurementTest.verify_sum_of_cm_and_m_unit.executor": "Run",
+    "JUnit.UnitMeasurementTest.verify_sum_of_m_and_cm_unit.executor": "Run",
+    "JUnit.UnitMeasurementTest.verify_sum_of_two_different_unit.executor": "Run",
+    "Maven.bootcamp [clean].executor": "Run",
+    "Maven.bootcamp [compile].executor": "Run",
+    "Maven.bootcamp [deploy].executor": "Run",
+    "Maven.bootcamp [install].executor": "Run",
+    "Maven.bootcamp [package].executor": "Run",
+    "Maven.bootcamp [site].executor": "Run",
+    "Maven.bootcamp [test].executor": "Run",
+    "Maven.bootcamp [validate].executor": "Run",
+    "Maven.bootcamp [verify].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/sumitkumar/Documents/workspace/codebase/Bootcamp/untitled/src/test/java",
+    "onboarding.tips.debug.path": "/Users/sumitkumar/Documents/workspace/codebase/Bootcamp/untitled/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="/private/var/folders/sd/13wq_p494pn627thg98bc8rr0000gn/T/qodana_output/qodana.sarif.json" reportGuid="5d1e9a62-e5c4-4ad8-90dc-e3e441e2d152" reportId="untitled/qodana/2024-02-05" />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MeasurementBaseUnitLengthTest">
+    <configuration name="MeasurementBaseUnitLengthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bootcamp.secondDay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bootcamp.secondDay" />
+      <option name="MAIN_CLASS_NAME" value="com.bootcamp.secondDay.MeasurementBaseUnitLengthTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MeasurementBaseUnitLengthTest.verify_for_quantity_given_in_km" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bootcamp.secondDay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bootcamp.secondDay" />
+      <option name="MAIN_CLASS_NAME" value="com.bootcamp.secondDay.MeasurementBaseUnitLengthTest" />
+      <option name="METHOD_NAME" value="verify_for_quantity_given_in_km" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MeasurementBaseUnitLengthTest.verify_for_quantity_given_in_meter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bootcamp.secondDay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bootcamp.secondDay" />
+      <option name="MAIN_CLASS_NAME" value="com.bootcamp.secondDay.MeasurementBaseUnitLengthTest" />
+      <option name="METHOD_NAME" value="verify_for_quantity_given_in_meter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MeasurementBaseUnitLengthTest.verify_sum_of_cm_and_m_unit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bootcamp.secondDay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bootcamp.secondDay" />
+      <option name="MAIN_CLASS_NAME" value="com.bootcamp.secondDay.MeasurementBaseUnitLengthTest" />
+      <option name="METHOD_NAME" value="verify_sum_of_cm_and_m_unit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MeasurementBaseUnitLengthTest.verify_sum_of_m_and_cm_unit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bootcamp.secondDay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bootcamp.secondDay" />
+      <option name="MAIN_CLASS_NAME" value="com.bootcamp.secondDay.MeasurementBaseUnitLengthTest" />
+      <option name="METHOD_NAME" value="verify_sum_of_m_and_cm_unit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MeasurementBaseUnitLengthTest" />
+        <item itemvalue="JUnit.MeasurementBaseUnitLengthTest.verify_for_quantity_given_in_km" />
+        <item itemvalue="JUnit.MeasurementBaseUnitLengthTest.verify_sum_of_m_and_cm_unit" />
+        <item itemvalue="JUnit.MeasurementBaseUnitLengthTest.verify_sum_of_cm_and_m_unit" />
+        <item itemvalue="JUnit.MeasurementBaseUnitLengthTest.verify_for_quantity_given_in_meter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac33ed63-3222-443e-bc75-c1b975c2111a" name="Changes" comment="" />
+      <created>1707129700747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707129700747</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
